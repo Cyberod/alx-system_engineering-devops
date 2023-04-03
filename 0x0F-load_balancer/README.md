@@ -3,7 +3,6 @@
 ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/6cefdd14b2f8c36789cba132bd5a10d42d88a177.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230403%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230403T210800Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=1605d734b7597e8ea3410a9f84fa4ef8217bc57fda378d8c9cd57e76c75e3bfd)
 
 # Load balancer
-![load_balancer](https://miro.medium.com/max/720/0*CCK15OF3DizmOITk)
 
 > Let’s improve our web stack so that there is redundancy for our web servers. This will allow us to be able to accept more traffic by doubling the number of web servers, and to make our infrastructure more reliable. If one web server fails, we will still have a second one to handle requests.
 
