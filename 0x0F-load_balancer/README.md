@@ -3,7 +3,8 @@
 
 
 # Load balancer
-![](https://imgs.search.brave.com/YriRvHwhsLvcuGzcriXtc12XjhCRwcOcSoqIcSAND1I/rs:fit:620:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4x/YVpzSnk3UGtqbUt1/dmlna05FWDlRSGFG/cSZwaWQ9QXBp)
+![image](https://user-images.githubusercontent.com/110993874/229634268-444846a0-201d-4c45-9cf6-60be2d73e058.png)
+
 
 > Let’s improve our web stack so that there is redundancy for our web servers. This will allow us to be able to accept more traffic by doubling the number of web servers, and to make our infrastructure more reliable. If one web server fails, we will still have a second one to handle requests.
 
