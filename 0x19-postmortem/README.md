@@ -1,4 +1,4 @@
-# Server Outage Incident report
+# Postmortem
 > By IFEANYI JONATHAN (Cyberod)
 <img src="https://github.com/Cyberod/alx-system_engineering-devops/assets/110993874/df285582-3980-4ed4-b700-d1bd77f5c6c8" alt="What did" width="700" height="400">
 
@@ -13,7 +13,7 @@ By 8:00PM GMT+1 on the 27th of March 2023 i was unable to connect to my web-serv
 | 8:28 PM | I found out that my web-server was not listening on `port 22/tcp` |
 | 8:30 PM | I requested for new web-server  |
 | 8:35 PM | I installed all the necessary files i needed to complete my task on the web-server |
-| 10:20AM | I successfully redid all the task that was lost|
+| 8:40 PM | I successfully redid all the task that was lost|
 
 ## Root cause and resolution:
 <img src="https://github.com/Cyberod/alx-system_engineering-devops/assets/110993874/bda86b16-10f1-44c9-8fe2-60eaac2a611e" alt="root cause" width="700" height="400">
