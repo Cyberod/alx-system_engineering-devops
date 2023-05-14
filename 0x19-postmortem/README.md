@@ -1,3 +1,3 @@
 # Server Outage Incident report
 > By IFEANYI JONATHAN (Cyberod)
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaDJZIavtwj7WzUClXw2GY5JwboWTLiMWddA&usqp=CAU)
+(img src="https://github.com/Cyberod/alx-system_engineering-devops/assets/110993874/df285582-3980-4ed4-b700-d1bd77f5c6c8" alt="What did" width="700" height="400")
