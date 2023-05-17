@@ -19,8 +19,8 @@
 # Default server configuration
 #
 #upstream backend_server {
-#	server 172.67.179.206;
-#	server 52.86.102.6:80;
+#	server 54.83.138.160;
+#	server 54.237.114.185;
 #}
 #
 server {
